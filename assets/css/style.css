@@ -183,7 +183,15 @@ body {
 .shape {
   position: absolute;
   display: none;
+  border-radius:30px;
+
 }
+
+.hero-shape-1{
+  top: 320px;
+}
+
+
 
 .has-bg-image {
   background-repeat: no-repeat;
